@@ -1,0 +1,336 @@
+==== Frame 0 shift diagnostics ====
+[DBG][frame=0] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131646744223426
+[DBG][frame=0] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=0] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=0] ref_length=111.489
+[DBG][frame=0] Expected points: 0, actual: 57
+==== End Frame 0 ====
+
+==== Frame 1 shift diagnostics ====
+[DBG][frame=2] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131646794181413
+[DBG][frame=2] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=2] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=2] ref_length=111.489
+[DBG][frame=2] Expected points: 0, actual: 57
+==== End Frame 2 ====
+
+==== Frame 2 shift diagnostics ====
+[DBG][frame=6] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131646894135632
+[DBG][frame=6] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=6] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=6] ref_length=111.489
+[DBG][frame=6] Expected points: 0, actual: 57
+==== End Frame 6 ====
+
+==== Frame 3 shift diagnostics ====
+[DBG][frame=10] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131646994207327
+[DBG][frame=10] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=10] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=10] ref_length=111.489
+[DBG][frame=10] Expected points: 0, actual: 57
+==== End Frame 10 ====
+
+==== Frame 4 shift diagnostics ====
+[DBG][frame=14] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647094194928
+[DBG][frame=14] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=14] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=14] ref_length=111.489
+[DBG][frame=14] Expected points: 0, actual: 57
+==== End Frame 14 ====
+
+==== Frame 5 shift diagnostics ====
+[DBG][frame=18] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647194545636
+[DBG][frame=18] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=18] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=18] ref_length=111.489
+[DBG][frame=18] Expected points: 0, actual: 57
+==== End Frame 18 ====
+
+==== Frame 6 shift diagnostics ====
+[DBG][frame=22] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647294422935
+[DBG][frame=22] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=22] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=22] ref_length=111.489
+[DBG][frame=22] Expected points: 0, actual: 57
+==== End Frame 22 ====
+
+==== Frame 7 shift diagnostics ====
+[DBG][frame=26] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647394244171
+[DBG][frame=26] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=26] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=26] ref_length=111.489
+[DBG][frame=26] Expected points: 0, actual: 57
+==== End Frame 26 ====
+
+==== Frame 8 shift diagnostics ====
+[DBG][frame=30] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647494301872
+[DBG][frame=30] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=30] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=30] ref_length=111.489
+[DBG][frame=30] Expected points: 0, actual: 57
+==== End Frame 30 ====
+
+==== Frame 9 shift diagnostics ====
+[DBG][frame=34] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647594687607
+[DBG][frame=34] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=34] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=34] ref_length=111.489
+[DBG][frame=34] Expected points: 0, actual: 57
+==== End Frame 34 ====
+
+==== Frame 10 shift diagnostics ====
+[DBG][frame=38] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131647694252144
+[DBG][frame=38] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=38] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=38] ref_length=111.489
+[DBG][frame=38] Expected points: 0, actual: 57
+==== End Frame 38 ====
+
+==== Frame 55 shift diagnostics ====
+[DBG][frame=218] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652194336236
+[DBG][frame=218] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=218] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=218] ref_length=111.489
+[DBG][frame=218] Expected points: 0, actual: 57
+==== End Frame 218 ====
+
+==== Frame 56 shift diagnostics ====
+[DBG][frame=222] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652294264484
+[DBG][frame=222] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=222] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=222] ref_length=111.489
+[DBG][frame=222] Expected points: 0, actual: 57
+==== End Frame 222 ====
+
+==== Frame 57 shift diagnostics ====
+[DBG][frame=226] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652394281078
+[DBG][frame=226] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=226] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=226] ref_length=111.489
+[DBG][frame=226] Expected points: 0, actual: 57
+==== End Frame 226 ====
+
+==== Frame 58 shift diagnostics ====
+[DBG][frame=230] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652494176315
+[DBG][frame=230] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=230] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=230] ref_length=111.489
+[DBG][frame=230] Expected points: 0, actual: 57
+==== End Frame 230 ====
+
+==== Frame 59 shift diagnostics ====
+[DBG][frame=234] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652594230774
+[DBG][frame=234] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=234] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=234] ref_length=111.489
+[DBG][frame=234] Expected points: 0, actual: 57
+==== End Frame 234 ====
+
+==== Frame 60 shift diagnostics ====
+[DBG][frame=238] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652694287297
+[DBG][frame=238] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=238] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=238] ref_length=111.489
+[DBG][frame=238] Expected points: 0, actual: 57
+==== End Frame 238 ====
+
+==== Frame 61 shift diagnostics ====
+[DBG][frame=242] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652794300905
+[DBG][frame=242] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=242] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=242] ref_length=111.489
+[DBG][frame=242] Expected points: 0, actual: 57
+==== End Frame 242 ====
+
+==== Frame 62 shift diagnostics ====
+[DBG][frame=246] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652894224329
+[DBG][frame=246] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=246] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=246] ref_length=111.489
+[DBG][frame=246] Expected points: 0, actual: 57
+==== End Frame 246 ====
+
+==== Frame 63 shift diagnostics ====
+[DBG][frame=250] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131652994180748
+[DBG][frame=250] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=250] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=250] ref_length=111.489
+[DBG][frame=250] Expected points: 0, actual: 57
+==== End Frame 250 ====
+
+==== Frame 64 shift diagnostics ====
+[DBG][frame=254] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653094186361
+[DBG][frame=254] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=254] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=254] ref_length=111.489
+[DBG][frame=254] Expected points: 0, actual: 57
+==== End Frame 254 ====
+
+==== Frame 65 shift diagnostics ====
+[DBG][frame=258] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653194213788
+[DBG][frame=258] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=258] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=258] ref_length=111.489
+[DBG][frame=258] Expected points: 0, actual: 57
+==== End Frame 258 ====
+
+==== Frame 66 shift diagnostics ====
+[DBG][frame=262] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653294183475
+[DBG][frame=262] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=262] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=262] ref_length=111.489
+[DBG][frame=262] Expected points: 0, actual: 57
+==== End Frame 262 ====
+
+==== Frame 67 shift diagnostics ====
+[DBG][frame=266] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653394253286
+[DBG][frame=266] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=266] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=266] ref_length=111.489
+[DBG][frame=266] Expected points: 0, actual: 57
+==== End Frame 266 ====
+
+==== Frame 68 shift diagnostics ====
+[DBG][frame=270] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653497024105
+[DBG][frame=270] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=270] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=270] ref_length=111.489
+[DBG][frame=270] Expected points: 0, actual: 57
+==== End Frame 270 ====
+
+==== Frame 69 shift diagnostics ====
+[DBG][frame=274] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653594545444
+[DBG][frame=274] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=274] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=274] ref_length=111.489
+[DBG][frame=274] Expected points: 0, actual: 57
+==== End Frame 274 ====
+
+==== Frame 70 shift diagnostics ====
+[DBG][frame=278] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653694168120
+[DBG][frame=278] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=278] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=278] ref_length=111.489
+[DBG][frame=278] Expected points: 0, actual: 57
+==== End Frame 278 ====
+
+==== Frame 71 shift diagnostics ====
+[DBG][frame=282] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653794127624
+[DBG][frame=282] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=282] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=282] ref_length=111.489
+[DBG][frame=282] Expected points: 0, actual: 57
+==== End Frame 282 ====
+
+==== Frame 72 shift diagnostics ====
+[DBG][frame=286] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653894397942
+[DBG][frame=286] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=286] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=286] ref_length=111.489
+[DBG][frame=286] Expected points: 0, actual: 57
+==== End Frame 286 ====
+
+==== Frame 73 shift diagnostics ====
+[DBG][frame=290] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131653994254627
+[DBG][frame=290] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=290] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=290] ref_length=111.489
+[DBG][frame=290] Expected points: 0, actual: 57
+==== End Frame 290 ====
+
+==== Frame 74 shift diagnostics ====
+[DBG][frame=294] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654094219807
+[DBG][frame=294] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=294] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=294] ref_length=111.489
+[DBG][frame=294] Expected points: 0, actual: 57
+==== End Frame 294 ====
+
+==== Frame 75 shift diagnostics ====
+[DBG][frame=298] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654194229186
+[DBG][frame=298] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=298] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=298] ref_length=111.489
+[DBG][frame=298] Expected points: 0, actual: 57
+==== End Frame 298 ====
+
+==== Frame 76 shift diagnostics ====
+[DBG][frame=302] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654294124488
+[DBG][frame=302] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=302] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=302] ref_length=111.489
+[DBG][frame=302] Expected points: 0, actual: 57
+==== End Frame 302 ====
+
+==== Frame 77 shift diagnostics ====
+[DBG][frame=306] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654394315061
+[DBG][frame=306] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=306] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=306] ref_length=111.489
+[DBG][frame=306] Expected points: 0, actual: 57
+==== End Frame 306 ====
+
+==== Frame 78 shift diagnostics ====
+[DBG][frame=310] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654494195615
+[DBG][frame=310] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=310] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=310] ref_length=111.489
+[DBG][frame=310] Expected points: 0, actual: 57
+==== End Frame 310 ====
+
+==== Frame 79 shift diagnostics ====
+[DBG][frame=314] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654594208993
+[DBG][frame=314] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=314] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=314] ref_length=111.489
+[DBG][frame=314] Expected points: 0, actual: 57
+==== End Frame 314 ====
+
+==== Frame 80 shift diagnostics ====
+[DBG][frame=318] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654694119019
+[DBG][frame=318] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=318] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=318] ref_length=111.489
+[DBG][frame=318] Expected points: 0, actual: 57
+==== End Frame 318 ====
+
+==== Frame 81 shift diagnostics ====
+[DBG][frame=322] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654794227888
+[DBG][frame=322] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=322] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=322] ref_length=111.489
+[DBG][frame=322] Expected points: 0, actual: 57
+==== End Frame 322 ====
+
+==== Frame 82 shift diagnostics ====
+[DBG][frame=326] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654894099312
+[DBG][frame=326] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=326] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=326] ref_length=111.489
+[DBG][frame=326] Expected points: 0, actual: 57
+==== End Frame 326 ====
+
+==== Frame 83 shift diagnostics ====
+[DBG][frame=330] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131654994205884
+[DBG][frame=330] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=330] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=330] ref_length=111.489
+[DBG][frame=330] Expected points: 0, actual: 57
+==== End Frame 330 ====
+
+==== Frame 84 shift diagnostics ====
+[DBG][frame=334] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131655094308949
+[DBG][frame=334] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=334] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=334] ref_length=111.489
+[DBG][frame=334] Expected points: 0, actual: 57
+==== End Frame 334 ====
+
+==== Frame 85 shift diagnostics ====
+[DBG][frame=338] loc_pose=(3733.000, 73679.000, yaw=0.479) loc_ts=1769131655194245528
+[DBG][frame=338] planner_pose=(3733.000, 73679.000, yaw=0.479)
+[DBG][frame=338] ref_path_first=(3732.363, 73678.839) ref_path_last=(3831.207, 73730.408) ref_size=57
+[DBG][frame=338] ref_length=111.489
+[DBG][frame=338] Expected points: 0, actual: 57
+==== End Frame 338 ====
+
